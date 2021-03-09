@@ -1,0 +1,7 @@
+.userInput{
+    height: 30px;
+    box-shadow: 1px 1px 1px #383838;
+    font-family: monospace;
+    font-size: 20px;
+    margin-top: 20px;
+}
